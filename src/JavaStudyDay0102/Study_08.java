@@ -1,4 +1,4 @@
-package JavaStudy;
+package JavaStudyDay0102;
 
 import java.io.IOException;
 

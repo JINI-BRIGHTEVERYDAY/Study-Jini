@@ -1,4 +1,4 @@
-package JavaStudy;
+package JavaStudyDay0102;
 
 // 연산자
 // 1. 최우선 연산자: ., [], ()
