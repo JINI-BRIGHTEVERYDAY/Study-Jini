@@ -31,6 +31,16 @@ public class Study_18 {
     //j++;
     //if(j > 10) b = false;
 
+    // int k = 0;
+    // do {
+    //     system.out.println("숫자 = " + k);
+    //     k++;
+    //     }while(k < 10);
+
+    // for(int i = 0; i < 10; i++) {
+    //     System.out.println("숫자 =" + i);
+    // }
+
 
 
         //}
