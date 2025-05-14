@@ -6,6 +6,8 @@ public class EnumWeek {
     public static void main(String[] args) {
         Week today = null;
 
+        String[] array = {"일요일", "월요일", "화요일", "수요일", "목요일", "금요일", "토요일"};
+
         Calendar cal = Calendar.getInstance();
         int week = cal.get(Calendar.DAY_OF_WEEK);
 
@@ -29,7 +31,7 @@ public class EnumWeek {
             case 7:
                 today = week.SATURDAY;break;*/
         }
-        //System.out.println("오늘 요일은 " + today);
-        System.out.println("")
+        System.out.println("오늘 요일은 " + array[week-1]);
+
     }
 }
